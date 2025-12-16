@@ -1,0 +1,140 @@
+{
+  "bannerOptions": {
+    "free": [
+      {
+        "id": "code",
+        "name": "Code",
+        "url": "https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg",
+        "type": "image",
+        "freeAccess": true
+      },
+      {
+        "id": "futuristic-laptop",
+        "name": "Futuristic Laptop",
+        "url": "https://i.pinimg.com/736x/7b/fd/87/7bfd875e85fbbed980e9df59bcde8579.jpg",
+        "type": "image",
+        "freeAccess": true
+      },
+      {
+        "id": "programming-desk",
+        "name": "Programming Desk",
+        "url": "https://i.pinimg.com/1200x/5c/56/32/5c563274dc0d04985d23f7d4ac0905ed.jpg",
+        "type": "image",
+        "freeAccess": true
+      },
+      {
+        "id": "wallpaper-1",
+        "name": "Wallpaper Abstract",
+        "url": "https://i.pinimg.com/736x/20/53/1d/20531d35e197174cf984aa4f76b52a70.jpg",
+        "type": "image",
+        "freeAccess": true
+      },
+      {
+        "id": "wallpaper-2",
+        "name": "Crypto Trader",
+        "url": "https://img.freepik.com/premium-photo/matt-furie-drawing-sad-crypto-trader_950002-568877.jpg",
+        "type": "image",
+        "freeAccess": true
+      },
+      {
+        "id": "wallpaper-3",
+        "name": "Tech Wallpaper",
+        "url": "https://i.pinimg.com/736x/8f/42/02/8f420298c1fb0438b95d0184c8399e48.jpg",
+        "type": "image",
+        "freeAccess": true
+      }
+    ],
+    "premium": [
+      {
+        "id": "developer",
+        "name": "Developer",
+        "url": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNibThzaWhpcThpZWJzbzBoYTZ1NWdrYWtoNjUyZHI1NjdmN2UzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3KwliaH4MLtli8z7D/giphy.gif",
+        "type": "gif",
+        "freeAccess": false
+      },
+      {
+        "id": "time-is-money",
+        "name": "Time is Money",
+        "url": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm40bW14bzJqNGVreXE2eTg2Mm50ZmdzNXU5N3p2Y2ZmMTNwbmM3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z78fjdFpO4EeZTcG6r/giphy.gif",
+        "type": "gif",
+        "freeAccess": false
+      },
+      {
+        "id": "code-is-life",
+        "name": "Code is Life",
+        "url": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHg4OTc2MTNhc28zM3Ayam9hdWVmNml2bTlqeDhyZzNsYTl4c2VnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif",
+        "type": "gif",
+        "freeAccess": false
+      },
+      {
+        "id": "best-coder",
+        "name": "Best Coder",
+        "url": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI3bnc5OXFyYW5pamM0dnp2M3FkYzgwbW81Z3l0OXBkMGlhZGpwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif",
+        "type": "gif",
+        "freeAccess": false
+      },
+      {
+        "id": "24hr-code",
+        "name": "24hr Code",
+        "url": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG50dGJ2ZWM3ZDc5ZzA3dHgzdXl0bTdmMHpmM2V1angzdXkwb3RyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif",
+        "type": "gif",
+        "freeAccess": false
+      },
+      {
+        "id": "cat-is-free",
+        "name": "Cat is Free",
+        "url": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWljdzlxMnlxN3E1ZGVvcmVjNGI4anZuMmloOGNpc3o4ZHhxZnY2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6RuhlzSdhIAqk/giphy.gif",
+        "type": "gif",
+        "freeAccess": false
+      },
+      {
+        "id": "hacker-1",
+        "name": "Hacker",
+        "url": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZieDFxc2VsbXltOXIzdnBvcjM2a2I5ZWxlOHIxZGtxcHA0ZnRyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif",
+        "type": "gif",
+        "freeAccess": false
+      },
+      {
+        "id": "hacker-black",
+        "name": "Hacker Black",
+        "url": "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW11czN2eDczamRmbjQxNzY1Z2VxNmYyb216MnZydmtsejRxaGNwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif",
+        "type": "gif",
+        "freeAccess": false
+      },
+      {
+        "id": "hollywood",
+        "name": "Hollywood",
+        "url": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFzOGI5NXEyeDloYzZ4NW96NXZuM3RmeGozOWpxdWZ0NjhlYWhzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3ERvA6jWCd0qO4NdX/giphy.gif",
+        "type": "gif",
+        "freeAccess": false
+      },
+      {
+        "id": "hacker-2",
+        "name": "Hacker Dark",
+        "url": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndyOGU1emhibWFyZWk0OXVteWRoMTVoMGE0am53ZmJlMjg2bnpnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3mlE7uhX8KFgEmY/giphy.gif",
+        "type": "gif",
+        "freeAccess": false
+      },
+      {
+        "id": "money",
+        "name": "Money",
+        "url": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa253Y253OXZib3FlcG53b3IxOXFpNDB5dzN3Yjc5amU1MzU4dmtjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XGP7mf38Vggik/giphy.gif",
+        "type": "gif",
+        "freeAccess": false
+      },
+      {
+        "id": "nature",
+        "name": "Nature",
+        "url": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB1amFtN2syZGJ2YXI1MmtnbnFxdDZ4djBvaDR3b3czdTNjOGhyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dU97uV3UyP0ly/giphy.gif",
+        "type": "gif",
+        "freeAccess": false
+      }
+    ]
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "totalFree": 6,
+    "totalPremium": 12,
+    "lastUpdated": "2025-12-17"
+  }
+}
